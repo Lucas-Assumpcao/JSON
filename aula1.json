@@ -1,0 +1,15 @@
+{
+"Nome": "Paulo",
+"Idade": 29,
+"Email": "paulocash@gmail.com",
+"Mundial": false,
+"Frutas": ["Maçã", "Banana", "Laranja", "Abacaxi", "Melancia"],
+"Endereço": {
+
+    "Rua": "Barueri",
+    "Número": 567,
+    "Bairro": "Nova Barueri",
+    "Cidade": "São Paulo",
+    "Estado": "SP"
+            }
+}   

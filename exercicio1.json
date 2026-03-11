@@ -1,0 +1,16 @@
+
+    {
+"Nome": "Lucas",
+"Idade": 30,
+"Email": "assumpdev@gmail.com",
+"Linguagens preferidas": ["JavaScript", "Python", "Java", "C++", "Ruby"],
+"Cursos":["Desenvolvimento Web", "Power BI", "Excel Avançado", "Desenvolvimento de sistemas", "Inglês Avançado"],
+"Endereço": {
+    
+    "Rua": "Reinaldo Ceschini",
+    "Número": 245,
+    "Bairro": "Munhoz Jnr.",
+    "Cidade": "Osasco",
+    "Estado": "SP"
+            }
+}   
