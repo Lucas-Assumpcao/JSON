@@ -1,0 +1,49 @@
+h1 {
+    color:brown;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-size: 50px;
+    font-weight: lighter;
+}
+
+p {
+    font-size: 20px;
+    font-weight: bold;
+}
+
+.boa {
+    color:red;
+    text-align: center;
+    line-height: 1;
+}
+
+table{
+    border:collapse 
+    
+    
+       
+}
+
+table,td {
+    border:1px solid black;
+
+}
+td{
+    padding: 2px;
+    text-align: center;
+    
+    
+}
+
+#Diva {
+    border: 2px solid green;
+    background-color: greenyellow;
+    color: darkgreen;
+}
+
+#xadrez {
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-size: 40px;
+    background-color: lightblue;
+    border: 5px solid blue;
+    padding: 20px;
+}

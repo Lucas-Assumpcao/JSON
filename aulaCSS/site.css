@@ -1,0 +1,55 @@
+#titulo{
+
+color :blue;
+font-size :30px;
+text-align: center;
+margin-left: auto;
+margin-right: auto;
+
+}
+
+
+
+.texto{
+
+color: green;
+font-size: 20px;
+
+}
+
+#tabela{
+    border:collapse ;
+    margin-left: auto;
+    margin-right: auto;
+}
+table{
+    border:collapse ;
+       
+}
+
+table,td {
+    border:1px solid black;
+    border:collapse ;
+}
+td{
+    padding: 2px;
+    text-align: center;
+    
+    
+}
+
+
+.list{
+color: red;
+margin-left: auto;
+margin-right: auto;}
+
+
+
+#rodape{
+    background-color: black;
+    color: white;
+    text-align: center;
+    padding: 10px;
+    font-style: italic;
+}
