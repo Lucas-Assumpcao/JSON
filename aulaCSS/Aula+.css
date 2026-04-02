@@ -22,6 +22,6 @@ span{
 }
 
 span:hover{
-    color:brown
-    
+    color:brown;
+    cursor: pointer;
 }
